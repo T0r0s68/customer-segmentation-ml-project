@@ -199,7 +199,7 @@ Customer segmentation helps businesses create more efficient and targeted market
 customer-segmentation-ml-project
 │
 ├── customer-segmentation-project
-│
+│   │
 │   ├── images
 │   │   ├── customer_segments.png
 │   │   ├── elbow_method.png
@@ -211,6 +211,8 @@ customer-segmentation-ml-project
 │   │   └── customer_segmentation_analysis.ipynb
 │   │
 │   └── requirements.txt
+│
+└── README.md
 
 ---
 
