@@ -194,6 +194,15 @@ The clustering analysis provides several important insights:
 Customer segmentation helps businesses create more efficient and targeted marketing strategies.
 
 ---
+## Business Insights
+- Cluster 1 generates the highest revenue
+- Cluster 2 shows low engagement
+- Cluster 3 has high churn risk
+
+## Recommendations
+- Focus marketing on high-value customers
+- Retarget inactive users
+---
 
 ## Project Structure
 
